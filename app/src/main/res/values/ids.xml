@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="editContent" type="id" />
+    <item name="btnSimpan" type="id" />
+    <item name="action_tambah" type="id" />
+</resources>
